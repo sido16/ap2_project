@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Weather-Detection-main"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../AWW/TP 4 tuto/TP 3"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
